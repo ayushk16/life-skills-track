@@ -27,8 +27,11 @@
   2. To master that skill we should keep learning and practicing ongoing.
 
 - #### Question 5
+
   **What are some of the actions you can take going forward to improve your learning process?**
+
   While learning about new topics and processes.
+
   1. I'll start with searching for the best matterial available that suits the requirement and the time constraint alloted to that topic.
   2. From begining I'll try to make flash cards of very important topics to revise latter.
   3. I'll give minimum of 20 hours of learning fundamentals to that topic.
