@@ -1,4 +1,6 @@
-## What kinds of behaviour cause sexual harassment?
+# Prevention of Sexual Harassment
+
+## 1. What kinds of behaviour cause sexual harassment?
 
 Sexual harassment can be caused by various types of behavior. Here are some common types of behavior that can contribute to sexual harassment:
 
@@ -26,7 +28,7 @@ To prevent sexual harassment effectively, organizations, institutions, and commu
 
 - Support services: Provide support services such as counseling, resources, and helplines for individuals who experience or witness sexual harassment.
 
-## What I would in do in case I face or witness any incident or repeated incidents of such behaviour?
+## 2. What I would in do in case I face or witness any incident or repeated incidents of such behaviour?
 
 If I find myself facing a situation involving sexual harassment, it's important to respond in a way that prioritizes my safety, well-being, and rights. Here are some steps I will take:
 
