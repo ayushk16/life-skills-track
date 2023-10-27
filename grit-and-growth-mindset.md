@@ -7,7 +7,8 @@
 
 ## 2. Paraphrase (summarize) the video in a few (1 or 2) lines in your own words.
 
-- Fixed mindset is the belief that your abilities are fixed and cannot be changed, whereas growth mindset is the belief that your abilities can be developed through hard work and practice.
+A fixed mindset is the belief that your abilities are fixed and cannot be changed, whereas a growth mindset is the belief that your abilities can be developed through hard work and practice.
+
 - We can develop a growth mindset by challenging ourselves, learning from our mistakes, and celebrating our successes.
 
 ## 3. What is the Internal Locus of Control? What is the key point in the video?
@@ -25,5 +26,4 @@
 ## 5. What are your ideas to take action and build Growth Mindset?
 
 - Always be ready to learn new skills.
-
 - Never leave any problem unsolved. Keep trying to make it happen.
