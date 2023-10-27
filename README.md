@@ -21,7 +21,7 @@
 ## Table of Contents
 
 1. [Learning Process](https://github.com/ayushk16/life-skills-track/blob/main/learning-process.md)
-2. [Listening and Assertive Communication](https://github.com/ayushk16/life-skills-track/blob/main/listening-and-active-communication.md)
+2. [Listening and Active Communication](https://github.com/ayushk16/life-skills-track/blob/main/listening-and-active-communication.md)
 3. [Prevention of Sexual Harassment](https://github.com/ayushk16/life-skills-track/blob/main/prevention-of-sexual-harrasment.md)
 4. [Technical Paper (REST architecture)](https://github.com/ayushk16/life-skills-track/blob/main/technical-paper.md)
 5. [Energy Management](https://github.com/ayushk16/life-skills-track/blob/main/energy-management.md)
