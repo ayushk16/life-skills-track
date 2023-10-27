@@ -2,10 +2,10 @@
 
 ## 1. What are the activities you do that make you relax - Calm quadrant ?
 
-- Listening to music
-- Taking a nap
-- Spending time with loved ones
-- Practicing yoga or meditation
+- Listening to music.
+- Taking a nap.
+- Spending time with loved ones.
+- Practicing yoga or meditation.
 
 ## 2. When do you find getting into the Stress quadrant ?
 
@@ -21,7 +21,7 @@
 
 - Matt Walker highlights the importance of sleep as a superpower.
 - He explains how quality sleep boosts our health, memory, and creativity.
-- Walker emphasizes that sleep is essential for overall well-being and encourages viewers to prioritize getting sufficient rest for optimal performance and a fulfilling life.
+- Walker emphasizes that sleep is essential for overall well-being and encourages viewers to prioritize getting sufficient rest for optimal performance and fulfilling life.
 
 ## 5. What are some ideas that you can implement to sleep better?
 

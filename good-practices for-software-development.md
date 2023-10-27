@@ -2,7 +2,7 @@
 
 ## Which point(s) were new to you?
 
-- The way I'll ask questions will determine whether they will be answered or not
+- The way I ask questions will determine whether they will be answered or not
   - I'll provide minute details regarding the problem
   - My tried methods.
   - Using Github gists, codepen, etc.

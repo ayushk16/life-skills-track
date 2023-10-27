@@ -26,7 +26,7 @@ B = MAP stands for Behavior equals Motivation, Ability, and Prompt. This formula
 ## 5. What is the book's perspective about Identity?
 
 The book says instead of just aiming to perform a habit, you can align the habit with your self-identity.
-For example rather than saying "I want to exercise," you would say "I am someone who is fit and prioritizes physical health.". This shifts the focus from the action to the identity, making the behavior more ingrained.
+For example, rather than saying "I want to exercise," you would say "I am someone who is fit and prioritizes physical health.". This shifts the focus from the action to the identity, making the behavior more ingrained.
 
 ## 6. Write about the book's perspective on how to make a habit easier to do?
 
@@ -44,7 +44,7 @@ For example rather than saying "I want to exercise," you would say "I am someone
 
 ## 8. Pick one habit that you would like to do more of? What are the steps that you can take to make it make the cue obvious or the habit more attractive or easy and or response satisfying?
 
-I would like to add a workout in my life
+I would like to add a workout to my life
 
 - As a healthy person it's important to go to the gym in the morning.
 - I'll click one photo after every workout session.
@@ -58,4 +58,4 @@ I would like to quit laziness.
 - As an active person it's important to avoid laziness.
 - I look unattractive to others when I yawn.
 - when I feel sleepy I'll go wash my face.
-- When I'm idel i do pushups.
+- When I'm idle I do pushups.

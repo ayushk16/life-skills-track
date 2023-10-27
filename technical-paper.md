@@ -9,14 +9,14 @@ The Representational State Transfer (REST) architecture is a widely adopted arch
 
 ## 1. Introduction
 
-REST , or REpresentational State Transfer, is an architectural style for providing standards between computer systems on the web, making it easier for systems to communicate with each other.
+REST, or REpresentational State Transfer, is an architectural style for providing standards between computer systems on the web, making it easier for systems to communicate with each other.
 
 ## 2. Principles of REST
 
 ### 2.1. Statelessness
 
-In stateless architecture server stores no information about client's session states.
-But, only servers the request for client.
+In stateless architecture server stores no information about the client's session states.
+But, it only servers the request for a client.
 
 ### 2.2. Resources(data)
 
@@ -38,7 +38,7 @@ This includes standard HTTP methods, such as GET, POST, PUT, DELETE, and a commo
 
 ## 3. Practical Applications
 
-REST architecture is widely used in various domains, including web services, cloud computing, and Internet of Things (IoT). Some practical applications include:
+REST architecture is widely used in various domains, including web services, cloud computing, and the Internet of Things (IoT). Some practical applications include:
 
 ### 3.1. Web APIs
 

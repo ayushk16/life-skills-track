@@ -12,9 +12,9 @@ Deep work refers to the ability to focus without distraction on a mentally deman
 
 4. **Eliminate Shallow Activities:** Reduce exposure to unproductive activities like mindless internet browsing and excessive TV watching.
 
-## 2. According to author how to do deep work properly, in a few points?
+## 2. According to the author how to do deep work properly, in a few points?
 
-We can practice deep work by following following points.
+We can practice deep work by following the following points.
 
 1. **Create a Distraction-Free Environment:** Eliminate distractions, such as turning off notifications, finding a quiet place to work, and using tools like website blockers to stay focused.
 
@@ -22,13 +22,13 @@ We can practice deep work by following following points.
 
 3. **Prioritize Tasks:** Identify and focus on the most important and high-impact tasks during your deep work sessions. Concentrate on activities that provide the most significant results.
 
-## 3. How can you implement the principles in your day to day life?
+## 3. How can you implement the principles in your day-to-day life?
 
 To implement deep work principles in daily life:
 
 1. Set aside specific hours daily for focused work.
 2. Find a quiet, distraction-free space.
-3. Disconnect from phones and emails, establish separate business contacts if necessary.
+3. Disconnect from phones and emails, and establish separate business contacts if necessary.
 4. Avoid multitasking and concentrate on one task at a time.
 5. Take short breaks every 25-30 minutes.
 6. Reward yourself with short relaxation after a deep work session.
